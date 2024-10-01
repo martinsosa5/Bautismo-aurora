@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+    --tipografiaDancing-Script: "Dancing Script", cursive; 
+    --tipografiaDamion: "Damion", cursive ;
+    --tipografiaPassion-One: "Passion One", sans-serif;
+    --tipografiaPacifico: "Pacifico", cursive; 
+    --tipografiaMerriweather-Sans: "Merriweather Sans", sans-serif ;
+    --tipografiaPoppins: 'Poppins', sans-serif;
+    --colorPrimario: black;
+    --colorSecundario: rgb(253, 79, 4);
+}
+
+
+.gradient-overlay {
+    background: linear-gradient(to top, white 3%, transparent 60%);
+}
+.titulo_2 {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: flex-end;   /* Coloca el h1 en la parte inferior */
+    height: 45vh;           /* Define la altura completa del contenedor */
+   
+    h1{
+        font-family: var(--tipografiaDancing-Script);
+        color: brown;
+        font-size: 4rem;
+    }
+    
+}
+
+.titulo_1 {
+    display: flex;
+    justify-content: start; /* Centra horizontalmente */
+    align-items: flex-end;   /* Coloca el h1 en la parte inferior */
+    
+    h3{
+        font-family: var(--tipografiaPassion-One);
+        color: brown;
+        font-size: 2rem;
+    }
+}
+
+
+
+td {
+    /* border-style: solid; */
+    border-color: #ffffff;
+    /* border-width: 0px; */
+    color: black;
+   /*  padding: 0px; */
+    font-size: 40px;
+    font-family: var(--tipografiaPacifico);
+    text-align: center;
+}
+
+th {
+/*  border-width: 0px; */
+color: black;
+ text-align: center;
+/* padding: 0px; */
+font-size: 14px;
+font-family: var(--tipografiaPassion-One);
+}
+ 
+
+
+
+
+
+
+
