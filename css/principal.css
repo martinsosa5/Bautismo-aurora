@@ -7,27 +7,24 @@
     justify-content: center; /* Centra horizontalmente */
     align-items: flex-end;   /* Coloca el h1 en la parte inferior */
     height: 45vh;           /* Define la altura completa del contenedor */
-   
-    h1{
+}
+.titulo_2 h1{
         font-family: var(--tipografiaDancing-Script);
         color: brown;
         font-size: 4rem;
-    }
     
 }
-
 .titulo_1 {
     display: flex;
     justify-content: start; /* Centra horizontalmente */
     align-items: flex-end;   /* Coloca el h1 en la parte inferior */
-    
-    h3{
-        font-family: var(--tipografiaPassion-One);
-        color: brown;
-        font-size: 2rem;
-    }
 }
 
+.titulo_1 h3{
+    font-family: var(--tipografiaPassion-One);
+    color: brown;
+    font-size: 2rem;
+}
 
 
 td {
