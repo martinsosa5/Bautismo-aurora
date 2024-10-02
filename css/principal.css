@@ -6,11 +6,12 @@
 .gradient-overlay {
     background: linear-gradient(to top, white 3%, transparent 60%);
 }
+
 .titulo_2 {
     display: flex;
     justify-content: center; /* Centra horizontalmente */
     align-items: flex-end;   /* Coloca el h1 en la parte inferior */
-    height: 45vh;           /* Define la altura completa del contenedor */
+    height: 310px;           /* Define la altura  */
 }
 .titulo_2 h1{
         font-family: var(--tipografiaDancing-Script);
@@ -60,7 +61,7 @@ font-family: var(--tipografiaPassion-One);
     /* Estilos para pantallas con un ancho máximo de 360px  */
     .titulo_2 {
         
-        height: 37vh;           /* Define la altura completa del contenedor */
+        height: 250px;  
     }
   
 }
