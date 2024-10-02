@@ -1,0 +1,19 @@
+.galeria_fotos{
+background-color: rgb(238, 238, 238);
+padding: 1.5rem;
+padding-top: 2rem;
+margin-top: 1.5rem;
+}
+
+.img{
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); /* Sombra negra */
+}
+
+.text_galeria{
+    font-family: var(--tipografiaDancing-Script);
+    font-weight: bold;
+    font-size: 40px;
+}
