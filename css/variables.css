@@ -1,0 +1,10 @@
+:root {
+    --tipografiaDancing-Script: "Dancing Script", cursive; 
+    --tipografiaDamion: "Damion", cursive ;
+    --tipografiaPassion-One: "Passion One", sans-serif;
+    --tipografiaPacifico: "Pacifico", cursive; 
+    --tipografiaMerriweather-Sans: "Merriweather Sans", sans-serif ;
+    --tipografiaPoppins: 'Poppins', sans-serif;
+    --colorPrimario: black;
+    --colorSecundario: rgb(253, 79, 4);
+}
