@@ -5,6 +5,7 @@
     --tipografiaPacifico: "Pacifico", cursive; 
     --tipografiaMerriweather-Sans: "Merriweather Sans", sans-serif ;
     --tipografiaPoppins: 'Poppins', sans-serif;
-    --colorPrimario: black;
-    --colorSecundario: rgb(253, 79, 4);
+    --colorPrimario: brown;
+    --colorAzul: #254867; 
+    --colorDorado: #ba964a;
 }
