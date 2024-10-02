@@ -59,8 +59,7 @@ font-family: var(--tipografiaPassion-One);
 
 @media (max-width: 360px) {
     /* Estilos para pantallas con un ancho máximo de 360px  */
-    .titulo_2 {
-        
+    .titulo_2 { 
         height: 250px;  
     }
   
