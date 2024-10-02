@@ -32,7 +32,8 @@ hr{
 
 .contenedor_confirmacion{
     background-color: var(--colorPrimario);
-    padding: 3rem;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/img/fondo-confirmacion.jpg');
     background-size: cover; /* Ajustar la imagen al tamaño del contenedor */
     background-position: center; /* Centrar la imagen */
