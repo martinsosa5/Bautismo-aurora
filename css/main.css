@@ -1,0 +1,23 @@
+main{
+    color: rgb(127, 128, 129);
+}
+
+hr{
+    color: var(--colorPrimario);
+}
+.text_titulo{
+    color: var(--colorPrimario);
+    font-family: var(--tipografiaMerriweather-Sans);
+}
+.contenedor_img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.boton-mapa{
+    background-color: var(--colorAzul);
+    color: aliceblue;
+    font-family: var(--tipografiaMerriweather-Sans);
+}
